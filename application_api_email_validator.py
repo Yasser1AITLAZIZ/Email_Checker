@@ -96,7 +96,7 @@ def update_excel(data, email, response, index_):
 def rechecking_error_emails(data):
     # Configuration des headers pour la requête API
     headers = {
-        'X-RapidAPI-Key': "9d35cc5cb0msh1d1e06d36fcff3ap1a93c1jsnd755d1a26c47",
+        'X-RapidAPI-Key': "",
         'X-RapidAPI-Host': "whoisapi-email-verification-v1.p.rapidapi.com"
     }
     
